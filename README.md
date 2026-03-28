@@ -157,7 +157,7 @@ another remote session is still active.
 
 Per-command strategy adapted from
 [Preventing Mac Sleep with Claude Code](https://tngranados.com/blog/preventing-mac-sleep-claude-code/)
-by Tomas Granados, with PID safety improvements and session-level support added.
+by Toni Granados, with PID safety improvements and session-level support added.
 
 ## License
 
